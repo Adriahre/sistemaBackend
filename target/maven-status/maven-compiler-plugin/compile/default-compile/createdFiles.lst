@@ -1,4 +1,8 @@
-com\sistema\SisdemaDeBackendApplication.class
 com\sistema\entidades\Usuario.class
+com\sistema\repositorios\UsuarioRepository.class
 com\sistema\entidades\Rol.class
 com\sistema\entidades\UsuarioRol.class
+com\sistema\repositorios\RolRepository.class
+com\sistema\servicios\impl\UsuarioServiceImpl.class
+com\sistema\servicios\UsuarioService.class
+com\sistema\SisdemaDeBackendApplication.class
