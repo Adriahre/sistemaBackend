@@ -1,0 +1,4 @@
+com\sistema\SisdemaDeBackendApplication.class
+com\sistema\entidades\Usuario.class
+com\sistema\entidades\Rol.class
+com\sistema\entidades\UsuarioRol.class
